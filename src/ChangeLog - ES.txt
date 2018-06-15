@@ -1,0 +1,693 @@
+﻿                                                                 ¡Gracias por descargar Vampire Tweaker!
+
+
+
+A continuación, se detalla una guía de todo lo que el mod hace. Esperemos que te guste
+
+================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================  
+                                                                                  ÍNDICE
+
+
+1. Cambios y funcionalidad del mod
+
+      1.1 Versión 1
+      1.2 Versión 1.2
+      1.3 Versión 2
+      1.4 Versión 3
+      1.5 Versión 4
+      1.6 Versión 5.1
+2. Instalación 
+3. Desinstalación del mod
+
+4. Compatibilidad
+
+5. Tuning y sintonía
+
+
+
+================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+                                                                                                                    
+CAMBIOS Y FUNCIONALIDAD DEL MOD
+
+
+
+
+
+Esta sección corresponde a los cambios introducidos en Vampire Tweaker en las diferentes versiones
+
+
+(Todos los cambios introducidos se aplican únicamente a los vampiros y no a los humanos ni a otras especies sobrenaturales)
+
+
+
+
+=================================VERSION 1====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================== 
+
+
+ 
+Moodlets:
+
+
+
+- Eliminación de la maldición de la momia
+
+- Eliminado moodlets de terror en Trotamundos
+
+- Eliminado moodlet de serpientes en Trotamundos
+
+- Aumentado el moodlet Snack Sanguíneo a 600 de humor y a 780 minutos de duración
+
+- Aumentado el moodlet Saciado a 100 de Humor y a 780 minutos de duración
+
+- Aumentado el moodlet "Mucho sol" a - 3000 de humor y reducido el tiempo a 1 día (1000)
+- Aumentado el moodlet "Vigor Vampírico" a 8000 de humor
+
+- Aumentado el moodlet "Sediento" a -20 de humor.
+
+- Amentado el moodlet "Muy Sediento" a -2000"
+
+- Aumentado el moodlet "Loco de Sed" a -45000
+
+- Aumentado el tiempo para que una víctima se recupere a 4 días.
+
+- Disminuido el humor del moodlet "Debilitado" a -50. Sin embargo, la víctima del vampiro se seguirá sintiendo feliz.
+
+- Aumentado el dolor que se le causa a un sim humano al morderlo para convertirlo a -20.
+
+- Eliminados moodlets de terror para vampiros hijos en ¡Menuda Familia!
+
+- Eliminados los moodlets de terror para los sims adultos de la crisis de la mediana edad.¡Los vampiros no envejecen!
+
+- Eliminados moodlets de pesadillas en ¡Menuda Familia!
+
+- Eliminado el moodlet de los no-muertos. ¡Los vampiros ya lo son!.
+
+- Eliminado el moodlet de "Mordido" en la expansión Pets
+
+- Eliminado el moodlet de la congelación cerebral
+
+- Eliminados más moodlets de terror.
+
+- Eliminado moodlets de picaduras por abejas
+
+- Eliminado moodlets de ahogamiento
+
+- Eliminado moodlet "Horrorizado"
+
+- Eliminada la Hidrofobia
+
+- Eliminado moodlet de picadura
+
+- Elimnado moodlet "noqueado"
+
+- Eliminado moodlet "Buena Comida"
+
+- Eliminado moodlet "Hierba Mentolada" (Moodlet que aparece cuando te lavas los dientes). ¡Los vampiros no pueden consumir
+otra cosa que no sea sangre! y
+ ¡No cuidan su limpieza dental!
+
+- Eliminado moodlet "Rejuvenecido". ¡Los vampiros siempre se encuentran bien!
+
+- Eliminado moodlet "Asustado"
+
+- Eliminado moodlet "Piel lisa". ¡Los vampiros tienen piel de piedra!
+
+- Eliminado moodlet "Astilla"
+
+- Eliminado moodlet "Arresto Domiciliario". Los vampiros están acostumbrados a estar bajo techo.
+
+- Eliminado moodlets del frigorífico
+
+- Eliminado moodlets de malestar
+
+- Eliminado moodlet "Ensordecido"
+
+- Eliminado moodlets relacionados con la muerte
+
+- Eliminado moodlets relacionados con los zombies y los sims sapificados. Ya no se podrán convertir en ellos.
+
+- Eliminado moodlet "¿Qué ha pasado?" Lo veo un mood innecesario porque los vampiros son innmunes a cualquier cosa sobrenatural.
+
+- Eliminados moodlets de terror
+
+- Eliminado moodlet "Payaso Trágico"
+
+- Eliminado moodlet "Aturdido"
+
+- Aumentado moodlet "Cazado" que aparece cuando hay un vampiro alrededor de un sim humano. El humor que conseguirá ahora un 
+sim humano es -16000
+
+- Eliminados moodlets relacionado a enfermedades y cansancios.
+
+- Eliminados moodlets relacionados bajo los monstruos de debajo de la cama.
+
+- Eliminados moodlets relacionados con la comida picante
+
+- Eliminados moodlets relacionados con haber visto fantasmas y momias
+
+- Aumentado moodlet en el que un sim ve a un vampiro. Se conseguirá ahora 500 de humor
+
+- Eliminado moodlet relacionados con los bichos. A los vampiros les gustan los bichos, sobre todo en los sótanos
+
+- Aumentado el moodlet de "Innmunidad" a 9000
+
+- Aumentado el moodlet "Bebió de un hada" a 20000 de humor
+
+- Aumentado el moodlet "Destellos" a 500 de humor
+
+- Aumentado el moodlet "Promesa de Protección" a 200 de humor
+
+- Aumentado el moodlet "Lunático" a 100 de humor
+
+- Eliminado moodlet de alergia
+
+- Eliminado moodlet "Moreno"
+
+- Eliminado moodlet "Sudando". Los vampiros no sudan
+
+- Eliminados moodlets relacionados con la temperatura
+
+- Eliminados moodlets relacionados con la alimentación
+
+- Eliminados moodlets relacionados con la relación de otras criaturas sobrenaturales
+
+- Eliminados moodlets relacionados con criaturas mutantes de Movida en La Facultad
+
+- Eliminados moodlets de fatiga en Movida en La Facultad
+
+- Eliminados moodlets relacionados con las picaduras de mosquitos
+
+- Eliminados moodlets relacionados con el submarinismo
+
+- Eliminados moodlets relacionados con "Paradoja en el Tiempo"
+
+- Eliminados moodlets de enfermedad
+
+- Eliminados moodlets de miedo
+
+- Eliminados moodlets relacionados con afecciones
+
+- Eliminados los moodlets que aparecen cuando se sueña algo malo en la cápsula onírica.
+
+
+
+
+(Algunos moodlets que se deberían de haber eliminado se han dejado puestos, pues por ejemplo, el moodlet "Náusea", sirve 
+para los vampiros que comen ajo.)
+
+
+
+ 
+Interacciones:
+
+
+
+- Los vampiros ya no pueden usar nada relacionado con el néctar ni beberlo
+
+- Los vampiros ya no pueden usar el muñeco vudú
+
+- Los vampiros ya no pueden comer pizza, pero sí pedirla y hacerla
+
+- Los vampiros ya no pueden comer caramelos
+
+- Los vampiros ya no pueden comer en restaurantes (RabbitHole)
+
+- Los vampiros ya no pueden comer nada que no sea plasma (que yo sepa he cubierto la mayoría de las comidas)
+
+- Los vampiros ya no pueden jugar al zumo pong
+
+- Los vampiros ya no pueden beber zumo (del barril de zumo o del bar).
+
+- Los vampiros ya no pueden beber bebidas que no sean específicas de los vampiros. Se han ocultado todas las bebidas (sólo a 
+los vampiros)
+excepto algunas como la Agua Sanguina y la Hemoglobina.
+
+- Los vampiros ya no pueden comer otros ingredientes que no sean las frutas de plasma.
+- Los vampiros ya no pueden beber la poción de cura.
+
+
+
+(Sin embargo, puede que algunas interacciones sigan funcionando. De ser así, dígamelo).
+
+ 
+Habilidades:
+
+
+
+- Se ha modificado el multiplicador de habilidades artísticas a 10.
+
+- Se ha modificado el multiplicador de habilidades Creativas a 10.
+
+- Se ha modificado el multiplicador de habilidades Mentales a 23.
+
+- Se ha modificado el multiplicador de habilidades Musicales a 12
+
+- Se ha modificado el multiplicador de habilidades Físicas a 46.
+
+(Algunos multiplicadores pueden parecer excesivamente altos, pero los he probado en el juego y las habilidades aumentan de una forma muy realista. También
+he tenido en cuenta al hacer estos cambios las leyendas populares de vampiros)
+
+
+
+ 
+Miscelánea:
+
+
+- Aumentada la probabilidad de que un sim sea hipnotizado por un vampiro al 100%.
+
+- Aumentada la probabilidad de que un sim no vampiro acepte ser convertido al 100%
+
+- Ahora cuando los sims duerman en el altar, se bloquearán todas las necesidades excepto la Sed
+
+- Ahora los Sims pueden usar sus poderes en las Tumbas
+
+- Ahora los poderes han sido seleccionados como autónomos, es decir, la ciudad entera los usará.
+
+- Ahora cazar divierte a los sims en 890 puntos
+
+- Ahora cazar lo pueden usar todos los vampiros de la ciudad autónomamente
+
+- Ahora cazar se puede hacer en Tumbas
+
+- Ahora al beber zumo de plasma, el vampiro sólo conseguirá 5 de Sed por Hora
+
+- Los vampiros son inmortales
+
+- Ahora convertir a sims da 6000 de Sed por Hora
+
+- Ahora convertir a sims da 3367 de Diversión por hora
+
+- Ahora convertir a sims da 670 de Social por hora
+
+- Ahora las sims pueden usar todos sus poderes auque estén embarazadas.
+
+- Aumentada la intensidad de la sed para los vampiros. Esto significa que cuando están muy sedientos, los vampiros se sentirán
+
+peor de lo habitual. Además ahora es una de las necesidades más importantes que deben satisfacer.
+
+- Ahora al beber, los vampiros tendrán 3367 de Diversión
+
+- Ahora al beber, los vampiros tendrán 670 de Social
+
+- Ahora la necesidad de vejiga está bloqueada, es decir, no decaerá; por lo que estará siempre llena.
+
+- Ahora, los vampiros de toda la ciudad beberán de los sims autónomamente.
+
+- Ahora la sed de los vampiros tendrá una decaída de sed más realista según su estado. Un vampiro con el moodlet Sediento 
+tendrá una decaída de un 1,
+uno con el moodlet Muy Sediento Tendrá una decaída de un 3 y un vampiro con el moodlet Loco de Sed 
+tendrá una decaída de la necesidad
+en un 4 (es peligroso para sus vidas llegar a este estado :)).
+
+- Ahora, si tienes la recompensa de "Inmortal", tu sed tendrá una reducción un poco mayor.
+
+- Ahora la disminución de sed en momentos normales tendrá una decaída de un 0.000001.
+
+- Ahora la energía decaerá un 0.00000000000000000000000001 (puede parecer poco, pero sigue siendo valor alto). Ahora la energía no decaerá en
+unos cuantos días
+
+- Desactivado el moodlet "Desacreditado Públicamente" por morder a un sim en público. Los vampiros dan miedo y no son
+ acusados así como así ¿No?. 
+(Sólo se aplica al "Morder a alguien en público". Las demás desgracias del sistema de
+celebridad siguen existiendo).
+
+- Aumentada la frecuencia con la que los vampiros de la ciudad ofrecerán convertir autónomamente.
+
+- Aumentada la frecuencia con la que los vampiros de la ciudad beberán autónomamente.
+
+- Aumentada la frecuenci con la que los vampiros de la ciudad cazarán autónomamente.
+
+- Ahora la frase plasma será sustituida por sangre (sólo del juego en Inglés y en Español)
+
+- Ahora, los vampiros podrán caminar bajo el sol, siempre y cuando tengan la barra de sed muy llena. No elimina el moodlet "Mucho Sol".
+
+- Ahora cuando la barra de sed llegue al máximo, se eliminará el moodlet "Mucho sol"
+- Ahora los vampiros estarán más ocultos. Aunque no es un cambio que se note mucho, ahora la gente de tu ciudad no sabrá que tienes
+el rasgo de vampiro (el rasgo oculto que en inglés se denomina "VampireHiddenTrait"). El nivel de privacidad de este rasgo ha sido ajustado
+al máximo.
+- Ahora, para mejorar a los vampiros de la ciudad y a los vampiros NPC, cada noche, recibirán sólo 1 fruta de plasma, para que cazar sea
+lo más recomendable para ellos.
+
+- Ahora, se han ocultado los colmillos para los vampiros en el CAS (Crear un Sim), de manera que ya no se podrán colocar
+sobre humanos ni otro tipo de criaturas. Sin embargo, los vampiros recién convertidos recibirán automáticamente los colmillos.
+- Se ha eliminado el Zumo de Plasma. Esto significa que ya no aparecerá en ningún lado.
+- Ahora los vampiros se sentirán energizados al tomar Hemoglobina y cualquier otro tipo de bebidas para vampiros.
+- Se han añadido 8 cuadros con imágenes vaampíricas para tus sims.
+- Añadidos buffs (BETA, NO FUNCIONAN TODAVÍA CORRECTAMENTE EN ESTA VERSIÓN. LEER VERSIONES POSTERIORES).
+
+
+
+Relaciones:
+
+
+
+- Ahora "Acusar de que la madre era una chupacabras" ahora quita 250 de relación
+
+- Ahora "Acusar de pertenecer a la especie vampírica" elimina 225 de Relación
+
+- Ahora "Intimidar" elimina 700 puntos de Relación.
+
+- Ahora convertir da 2500 de relación
+
+- Ahora beber da 15 de relación (antes 50).
+
+- Ahora los vampiros beben del cuello
+
+- Ahora los vampiros nunca recibirán un rechazo al beber de un sim.
+- Ahora los vampiros causarán mayor sensación en la ciudad y atraerán más a la gente.
+
+
+(
+
+
+Aunque algunos cambios que introduce el mod se apliquen a algunas expansiones que no estén instaladas, el mod no dará ningún problema)
+
+SCRIPTING:
+
+- Ahora los vampiros recibirán un maquillaje sangriento. Las texturas son de Aikea Guinea, en su maquillaje de "We Hunger", pero he mezclado las texturas haciendo
+un maquilaje asombroso.
+
+- Ahora los vampiros recibirán unos ojos terroríficos (Creados por mí) cuando están sedientos. Desaparecerán cuando se sacien.
+
+- Ahora los humanos morididos por los vampiros recibirán una marca de mordida que desaparece por el tiempo. Sin embargo, está ubicada en el lado inverso
+a donde muerden los vampiros. Corrigiendo...
+
+La sucesión de maquillajes va un poco retrasada, es decir, que no funciona al instante, por lo menos en mi equipo de pruebas.
+
+
+=========================VERSION 1.2============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+- Actualizado el maquillaje sangriento con una nueva versión más sucia.
+
+- Arreglados pequeños problemas en el script.
+
+
+========================VERSION 2 (LEGACY)======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+- Añadida interacción "Matar". Gracias a Enirei por esto
+
+- Arreglado el problema de la marca de mordida
+
+- Arreglado un problema por el cual los ojos de sed se quedaban en los sims cuando pasaban de ser vampiros a ser humanos o otra criatura sobrenatural.
+
+- Arreglado un problema en la cuerdas (STBL) de las pinturas
+
+- Añadidos buffs
+
+- Arreglado un problema por el cual algunas veces los sims no bebían del cuello.
+
+- Arreglado un error por el cual a veces salía el globo encima de la cabeza de hambre en vez del icono de sediento, cuando
+los vampiros estaban sedientos.
+
+- Cambiado el método por el cual algunas interacciones eran restringidas a los vampiros y daban fallos a algunos
+sims humanos en las interacciones (reportados por jugadores). La nueva forma de restricción no debe dar ningún problema.
+
+- Cambiado algunos cambios muy grandes en script. Se ha reducido el comando de desinstalacion a 1 solo comando en
+vez de 3. Ver punto DESINSTALACIÓN.
+
+
+=====================VERSION 3==================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+- Cambios grandes en script. Leer post en Modthesims antes de actualizar
+
+
+- Nuevas interacciones: Resucitar (La interacción resucita al otro sim. NO SE AÑADE A LAS LÁPIDAS. EN DESARROLLO...) y la
+interacción "Convertir" que introduce a los sims en una pelea y que termina con la conversión del sim. A diferencia de 
+"Ofrecer Convertir", esta convierte forzosamente al sim, aunque se niegue.
+
+- FIXES POTENCIALES
+
+- Nuevos buffs con las nuevas interacciones y al usar los altares
+
+- Arreglado un problema en el asistente de desinstalación.
+
+- El script ya funciona perfectamente y es totalmente seguro.
+
+- Restaurado los antiguos comandos. Ahora la desinstalación se realiza con "VampireTweaker-ThirstEffect_Uninstall", "VampireTweaker-BloodEffect_Uninstall",
+"VampireEffects-BiteMarkEffect_Uninstall"
+
+
+======================VERSION 4===============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+- Unificada la desinstalación. Ahora la desinstalación se realiza por un solo comando en vez de 3. El nuevo comando de desinstalación es "VampireTweaker_Uninstall"
+
+- Añadido un comando para explicar cómo se realiza la desinstalación. Es bastante recomendable correrlo antes de empezar: "VampireTweaker_UninstallHelp"
+
+- Añadida sangre en el cuerpo cuando se mata o se convierte a un sim. La sangre se añade al vampiro tanto como al sim objetivo.
+
+- Añadida animación a la interacción "Resucitar" para la conversión de fantasma a sim.
+
+- Aumentado los valores de decaída. Esto significa que ahora decaerán más rápido las necesidades que en versiones antiguas, de manera que sea perceptible.
+
+- Optimización del código para acelerar la ejecución del script.
+
+- Disminuido el valor del moodlet "Cazado". Pasa de ser -16000 a -890
+
+- Disminuido el valor del moodlet "Loco de sed". Pasa de ser -45000 a -1000
+
+- Disminuido el valor del moodlet "Muy sediento". Pasa de ser -2000 a -400
+
+- Nuevo moodlet cuando el sim está sediento.
+
+- Nuevo moodlet cuando el sim es mordido.
+
+- Nuevo moodlet cuando aparece  la cara sangrienta.
+
+- Reducidos los humores negativos de algunos buffs añadidos por el mod (custom buffs)
+
+- Arregladas las interacciones. Ahora aparecerán en todas las partidas sin problemas. ES PROBABLE QUE EN ALGUNAS PARTIDAS HAYA UN ERROR POR EL CUAL SOLO APARECE UNA
+INTERACCIÓN DE LAS 2 QUE EXISTEN, INTENTADO ARREGLAR. LAS DEMAS INTERACCIONES FUNCIONAN BIEN. TENGA EN CUENTA QUE LAS INTERACCIONES 
+ESTÁN RESTRINGIDAS SÓLO A LOS HUMANOS. LAS INTERACCIONES DE LOS HUMANOS SON MATAR Y CONVERTIR. LA DE LOS FANTASMAS RESUCITAR. 
+COMPRUEBA BIEN QUIEN ES EL SIM OBJETIVO ANTES DE USAR LA INTERACCIÓN.
+
+- Añadida interacción "Obtener sangre". Por 75 simoleones se puede obtener sangre del hospital.
+
+- Ahora desaparece la necesidad de Vejiga del panel de Necesidades. A veces simplemente se queda en blanco
+
+- Añadida interacciones en el ayuntamiento para controlar el mod. Están bajo el menú Vampire Tweaker... Las interacciones sirven para desactivar y activar las
+interacciones y para desactivar o activar la necesidad de Vejiga.
+
+- Ahora los niños tienen siempre los ojos rojos activados hasta que sean adultos. Los ojos rojos son sus ojos predeterminados. Si un adolescente pasa a adulto, los
+ojos se mantienen hasta que no satisfazca su sed por primera vez.
+
+- Añadida interacción para resucitar a un sim desde su tumba.
+
+- Nuevo maquillaje sangriento. Efecto 3D
+
+- Ahora las interacciones aparecen debajo de un menú llamado "Poderes..."
+
+
+============================VERSION 5.1=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+- Eliminada la fruta de plasma y el zumo de plasma completamente
+
+- Añadida la habilidad "Habilidades Vampíricas". La habilidad no afecta la jugabilidad, es decorativa.
+
+- Ahora la interacción "Obtener sangre" puede ser realizada por niños.
+
+- El código ha sido reescrito desde cero.
+
+- Los mismos efectos que reciben los adultos, lo reciben los niños y adolescentes al completar diversas interacciones como Obtener Sangre. Básicamente, en situaciones que son necesitadas
+
+- Revisión al código por el que los niños reciben los ojos rojos. Ahora hay más rendimiento a la carga del juego.
+
+- Ahora el comando de desinstalación elimina los cuadros y hace desaparecer las interacciones
+
+- Ahora, los ojos son accesorios, es decir, cumplen la misma funcion que siempre, pero esta vez no hara desaparecer
+el color de los ojos originales ¡YEAH!. Pon los colores que quieras a tus ojos, no se perderán. Si has actualizado de una
+versión anterior, usa el comando testingcheatsenabled true y haz clic presionando la tecla Shift para editar tu sim y poner el color que quieras.
+
+- Ahora se han añadido nuevas opciones de personalización del mod en el ayuntamiento. Algunas son más útiles de lo que parece...
+
+- Interacciones y demás cosas ahora estarán disponibles en Ruso (gracias a Nihilluss)
+
+- Interacciones y demás cosas ahora estarán disponibles en Alemán (gracias a Armilus)
+
+- Ojo más brillante y colorido
+
+- Ahora la necesidad de vejiga volverá a la normalidad (sin decaer) porque el cambio que realizaba el mod en V4 era inútil y sobrecargaba en exceso el juego. En resumen,
+habrá la misma funcionalidad que el juego normal.
+
+- Se ha hecho más realista la interacción Matar.
+
+- Se han hecho más rápidas las interacciones
+
+- Se ha creado un comando "VampireTweaker_Reset" que ayuda a diagnosticar errores que a veces puede que no sean causados por el mod, si no por la 
+configuración del juego o del propio usuario.
+
+- Ahora se puede mantener vigilado al mod en todo momento con la interacción en el ayuntamiento "Debug"
+
+- Optimizado el código de los niños y los ojos rojos.
+
+- Reemplazadas las marcas de mordida que tenían los vampiros por unas mucho más realistas.
+
+- Corregido el error por el que la Sed no decaía normalmente. Era una característica del mod, pero a mucha gente no le gustaba, así que la he devuelto a sus valores
+originales.
+
+- El código se ha mezclado en dos instancias (anteriormente 5). Esto significa que ahora el juego consumirá menos memoria,
+tendrá menos problemas el mod y se ejecutarán más rápido ciertas acciones.
+
+- Arreglado el problema por el que se cerraba el juego.
+
+- Añadida la opción de Debug en el ayuntamiento. Mostrará información avanzada sobre el mod.
+
+- Arreglados ciertos comandos de desinstalación.
+
+
+===============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+INSTALACIÓN
+
+Este mod se instala en Documentos/Electronic Arts/Los Sims 3/Mods/Packages
+
+Ahora, vuelva a Documentos/Electronic Arts/Los Sims 3/ y borre los siguientes archivos:
+
+- CASPartCache
+- compositorCache
+- scriptcache
+- simCompositorCache
+- socialCache
+
+Después, vaya a nraas.wikispaces.com
+
+1. Descargar MasterController
+2. Instalar e ir al juego.
+3. Hacer clic en Ayuntamiento y luego en NRAAS>MasterController
+4. En el menú que aparece, hacemos clic en Ciudad
+5. Luego hacemos clic en Reiniciar Todo y en el tick. Esperamos...
+
+Una vez hecho esto, ya está instalado Vampire Tweaker!
+
+Ante cualquier duda, ver la pestaña "Install Instructions" en Mod The Sims.
+
+
+===============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================                                                                                                                                            
+DESINSTALACIÓN
+
+¡Vas a empezar a desinstalar Vampire Tweaker! :(
+
+Pues continúa leyendo :(
+
+Este mod necesita unos requisitos especiales para ser desinstalado. Para desinstalarlo, simplemente abra la consola de trucos en el juego 
+
+(CTRL+SHIFT+C)
+
+e
+ introducir el siguiente comando (sin las comillas y distinguiendo mayúsculas y minúsculas)
+
+
+
+"VampireTweaker-BloodEffect_Uninstall"
+
+
+
+Si aparece algún error de comando no registrado, puede ser que no lo haya escrito bien. Escriba el comando "help" para mostrar todos los comandos de su juego
+
+y aparecerá el de desinstalación. Intente copiarlo igual a tal y como se muestra en el comando "help".
+
+
+
+Una vez ejecutado este comando, aparecerá una ventana (en inglés) diciendo que se están limpiando a todos los sims. Pulse en el tick . Unos 
+segundos más tarde,
+aparecerá otra ventana (en el caso de que haya que limpiar sims) con el siguiente mensaje:
+
+"Cleaning:(Nombre del sim)"
+
+Y pulsamos el tick. Esperamos y nos debe de salir la siguiente ventana para saber que se ha completado correctamenta la desinstalación
+
+"Cleaned:(Nombre del sim)"
+
+En caso de que haya algún error, el mod te lo informará con un mensaje de error. Sin embargo, esto es muy poco probable. En caso de error, guardar, reiniciar
+el juego e introducir el comando en la consola del juego.
+
+Ahora introduzca los siguientes comandos:
+
+"VampireTweaker-ThirstEffect_Uninstall"
+"VampireTweaker-BiteMarkEffect_Uninstall"
+
+Y siga las mismas instrucciones que en los pasos anteriores
+
+Y el mod hará esto con cada sim del juego que tenga algún dato almacenado por el mod. La desinstalación se completará en cuanto
+dejen de aparecer mensajes.
+Una vez hecho esto, guarda la partida.
+
+
+Para completar la desinstalación, simplemente elimine el archivo .package correspondiente al mod.
+
+
+
+ATENCIÓN!!!!!!!!!!:SI TIENE V3.3 O SUPERIOR
+
+La desinstalación está completamente guiada.
+En estas versiones, se realiza por medio de un solo comando:
+
+"VampireTweaker_Uninstall"
+
+Si tiene cualquier duda, use este comando:
+
+"VampireTweaker_UninstallHelp"
+
+
+===================================================================================================
+
+===========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================                                                                                                                                          
+COMPATIBILIDAD
+
+
+
+Este mod no es compatible con los siguientes mods:
+
+
+
+- Shoni's Vampire Overhaul
+
+- Diriel Bloody Meals (Compatible is the mod, although it is not necessary to have it because Tweaker Vampire already has this feature)
+
+- Im not Heating Up (from missyhissi)
+
+- No Sparkles (of missyhissi)
+
+- Autonomous Vampires (pcexpert)
+
+- Immortal Supernatural Creatures (my mod :))
+
+- celebrity mod difficulty- hystericalparoxysm
+
+- T-E auto romance mod bluegenjutsu
+
+- werewolves can auto curse, bite sims, no accuse deny vampire/ no accuse impropriety 
+
+- vampire mood & vampires better by tremerion
+
+Gracias a christmas fear por reportar algunos conflictos.
+
+
+
+Los demás mods para vampiros funcionan perfectamente conjunto a este. Sin embargo hay más detalles que le pueden interesar sobre compatibilidad. Siga leyendo.
+
+
+Sólamente algunas funciones de sHoni´s Vampire Overhaul no son compatibles. Sin embargo, aquí especifico cuál de estos módulos es compatible junto a Vampire
+
+Tweaker:
+
+
+
+- sHoni´s Vampire Overhaul NO V
+
+- shoni´s Vampire Overhaul No tattoo
+
+- sHoni´s Vampire Overhaul Minor Things
+
+
+
+
+Estas versiones funcionan perfectamente con Vampire Tweaker, pero tenga en cuenta que el funcionamiento de otros mods distintos a Vampire Tweaker es
+ 
+impredecible.
+
+Sin embargo, muchas de las funciones de estos mods ya vienen incluidas, mejoradas o modificadas, de forma que espero que no te importen 
+estas 
+incompatibilidades :) .
+
+ Si descubre más incompatibilidades, por favor, dígamelas para actualizar esta lista.
+================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================

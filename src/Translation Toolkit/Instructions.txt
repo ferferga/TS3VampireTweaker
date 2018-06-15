@@ -1,0 +1,59 @@
+==> FIRST OF ALL, UNZIP THIS FILE IN ANOTHER FOLDER LIKE DESKTOP <==
+==> READ EVERY STEP BEFORE TRANSLATING <==
+
+1. First, check the languague you want to translate if it is already translated in the ModTheSims page. If the translation need a update, check the final point of 
+this guide.
+2. Open the folder Files
+3. Open one of the files. Example of text:
+
+<?xml version="1.0" ?>
+<TEXT>
+<KEY>Gameplay/Excel/buffs/BuffList:KilledBuff</KEY>
+<STR>Killed</STR>
+<KEY>Gameplay/Excel/buffs/BuffList:VampireTweaker_KilledBuff_BuffDescription</KEY>
+<STR>Kill a sim is not very common. In addition, your sim has been strengthened more than ever before, apart from improving their reputation in the Commission of vampires and cause fear. Who is the next?</STR>
+</TEXT>
+
+4. Edit ONLY the text into <STR> and </STR> in the entire file. Ignore the other things.
+
+====> READ THIS IF YOU WANT TO UPDATE A TRANSLATIONS <=====================
+
+The updated strings are in the final of the document.
+1. Go to Files>Needs Update
+
+And update translations with the not translated strings following the steps above.
+
+
+===> READ THIS IF YOU WANT TO TRANSLATE ALSO THE PAINTINGS LANGUAGUE <====
+
+1. Go to Files>Paintings
+2. Open all files. The text to translate is writed in the file
+Example of text:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<STBLKeyStringList>
+  <Text Key="F02F72476E312731">Angry vampire</Text>
+  <Text Key="90EF2F328CB40888">Very little is known of this work of art of not much value, however, experts are investigating it to trace our roots...</Text>
+</STBLKeyStringList>
+
+3. Edit in all files the text into the > and</Text> . The text into these tags are the text showed in game
+
+
+======> FINALLY ZIP THE FILE. CLICK THE FOLDER WITH THE RIGHT BUTTON OF THE MOUSE AND GO TO SEND TO>COMPRESSED FOLDER. IF YOU ARE RUNNING WINDOWS XP, USE YOUR PROGRAM,
+RECOMMENDED WINRAR <====
+
+======> POST A COMMENT IN THE MODTHESIMS THREAD WITH THE NEXT INFORMATION TO UPLOAD YOUR TRANSLATIONS <======
+
+1. The languague of the translations
+2. The version of the toolkit you have (check the file VersionInfo)
+
+I will post a new version of the mod with the new translation and your name in the Additional Credits.
+
+=================>>>>>>>> VERY IMPORTANT!!!! <<<<<<<<<<<<<<=====================================================
+
+WHEN YOU TRANSLATE, YOU NEED TO BE CAREFUL WITH MANTAINING THE SPACES, COMMAS, POINTS, CAPS AND OTHER SYMBOLS. YOU ONLY NEED TO TRANSFORM THE WORD, DON'T TOUCH
+ANYTHING. IF YOU TOUCH ANYTHING, SOMETHING CAN BE SEE BAD IN YOUR GAME
+
+THANK YOU!
+
+Now you are ready to translate :)
