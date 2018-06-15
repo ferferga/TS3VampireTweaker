@@ -11,14 +11,27 @@ Give always credits to original authors and me when you use some of my work. The
 They are all mentioned in the Readme of the mod's page in MTS, but here is a reminder :D:
 
 CmarNYC - She helped me a lot with scripting
+
 NonaMena - For how to load moodlets
-Diriel - For his fantastic method to add makeup to sims. I stolen his code :). 
+
+Diriel - For his fantastic method to add makeup to sims. I stolen his code :).
+
 Consort - For his code to toggle the interactions on off and the bladder
-Armilus - For his constant attention,  suggestions, great follower and support and for test some things in meshing. Thank you very much! 
+
+Armilus - For his constant attention,  suggestions, great follower and support and for test some things in meshing. Thank you very much!
+
 Deviantart - I found textures here
+
 Google Images - Also for textures
+
 Enirei - For her code to make me a template of interaction
-LadyFrontBum - For her bite mark,  that i have modifidd with blood. 
-Aikea Guinea - For some layers of the blood texture. 
+
+LadyFrontBum - For her bite mark,  that i have modifidd with blood.
+
+Aikea Guinea - For some layers of the blood texture.
+
 SleepyGenius - For his code for paying the blood in the hospital
+
 Nihilluss - For his translations to Russian
+
+Also, thank you very much to all those unknown people who I might have missed but helped to the mod, or made some of the stuff I included on it! :)
