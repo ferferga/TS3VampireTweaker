@@ -1,8 +1,17 @@
 # VampireTweaker
-Sources and original files of the Sims' 3 mod ["Vampire Tweaker"](http://modthesims.info/download.php?t=523897). Many people have been requesting them, and, after a deep searching, I did found my working directory of the mod in one of my hard drives. These are unomodified from the last time I've edited/touched them (I didn't change a thing), so they might not compile, or work at all like the last V5 version does (I don't know if some stuff in these sources got published in MTS or not). I didn't keep a track of the files, so, unfortunately, sources of older versions like V4 are completely lost. However, if you are interested/need them, open an issue here and I might be able to do some reverse engineering on my libraries to get the original sources (and I understand you might want them, as they were much better coded than the V5 version. Not so much better, but at least bug-free :D)
+Sources and original files of the Sims' 3 mod ["Vampire Tweaker"](http://modthesims.info/download.php?t=523897). Many people have been requesting them, and, after a deep searching, I did found my working directory of the mod in one of my hard drives. These are unomodified from the last time I've edited/touched them (I didn't change a thing), so they might not compile, or work at all like the last V5 version does (I don't remmeber if some stuff in these sources got published in MTS or not). I didn't keep a track of the files, so, unfortunately, sources of older versions like V4 are completely lost. However, if you are interested/need them, open an issue here and I might be able to do some reverse engineering on my libraries to get the original sources (and I understand you might want them, as they were much better coded than the V5 version. Not so much better, but at least bug-free :D)
+
+## Contributing
+
+You are free to fix this mod, make pull requests and submit issues. You are also free to re-upload, distribute it anywhere, or use it as you wish, but always credit me and all the original authors.
+
+You must also publish the sources of your work that includes pieces of my work, as stated in the GPL3 License. You can open an issue if you want, so I can link to your mod here and in MTS.
+
 Don't hesitate to contact me on any problem/question you have. I would really love to make some updates to Vampire Tweaker (it was one of my first attempts on coding and I did improve a lot since then, the code of this mod is really dirty and one of the main reasons I took so long to publish is because it's a bit embarrassing how dirty it is, really! :D), but I no longer play the game or have the motivation to keep coding it. But that doesn't mean I'm not open for modification requests!
 
-If you are new to modding, you should read the [tutorials](http://modthesims.info/wiki.php?title=Sims_3:Modding) before asking anything (this mod got a little complex, so you should have a bit of experience at least :D)
+If you are new to modding, you should read the [tutorials](http://modthesims.info/wiki.php?title=Sims_3:Modding) before asking anything, as many questions you had might be there
+
+*Thank you to everybody for your interest in my mods! You made modding The Sims a great experience :)*
 
 # Credits
 
